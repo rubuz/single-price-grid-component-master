@@ -98,6 +98,7 @@ main {
   border-radius: 0.55rem;
   max-width: 650px;
   overflow: hidden;
+  box-shadow: 0px 3px 13px -5px rgba(0, 0, 0, 0.75);
 }
 
 h1,
